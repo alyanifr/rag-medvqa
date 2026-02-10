@@ -7,7 +7,6 @@ pandas
 pyprojroot
 python-dotenv
 PyYAML
-SQLAlchemy
 python-pptx
 crewai
 crewai-tools
