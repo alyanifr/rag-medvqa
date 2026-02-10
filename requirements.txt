@@ -10,3 +10,4 @@ PyYAML
 python-pptx
 crewai
 crewai-tools
+torch
